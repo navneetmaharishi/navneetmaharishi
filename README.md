@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Web Development
-- 📫 How to reach me: navneetmaharishi@gmail.com
+- 📫 How to reach me: [Navneet Sharma](https://navneetmaharishi.github.io/)
 - ⚡ Fun fact: 😏
