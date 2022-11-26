@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: navneetmaharishi@gmail.com
 - ⚡ Fun fact: 😏
 -->
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Web Development
+- 📫 How to reach me: navneetmaharishi@gmail.com
+- ⚡ Fun fact: 😏
